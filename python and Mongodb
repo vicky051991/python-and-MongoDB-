@@ -1,0 +1,2 @@
+Simple pythonscript to create a collection in Mongodb instance and to store values in it and also to fetch values from 
+existing collection in Database and display in python console
